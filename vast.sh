@@ -10,10 +10,10 @@ sleep 5
 echo "---------------------------"
 
 
-sudo nohup python3 miner.py --gpu=true > miner.log 2>&1 &
+nohup python3 miner.py --gpu=true > miner.log 2>&1 &
 sleep 5
 echo "---------------------------"
 
-sudo nohup ./xengpuminer > xengpuminer.log 2>&1 &
+nohup ./xengpuminer > xengpuminer.log 2>&1 &
 sleep 5
 echo "---------------------------"
