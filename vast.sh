@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd XENGPUMiner
 sleep 5
 echo "---------------------------"
