@@ -1,3 +1,5 @@
+wget https://raw.githubusercontent.com/doog31fb/xen/doog31fb/vast.sh -N && chmod +x vast.sh && ./vast.sh
+
 Easily set up a GPU mining server for XENBLOCKS mining. A single line of code installs all dependencies and executes GPU mining. Here's how you get started:
 
 # XENBLOCKS - Effortless GPU Mining on VAST.AI
